@@ -41,7 +41,7 @@ Platform:
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <file:///C:/Users/saren/Downloads/Retrospective_Sprint1_2_3.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://drive.google.com/drive/folders/189jHZMSPYo0PoImVyiv6agShLnfIQWrq>
    [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2009?threadId=19%3A92d37cd960784b8d816b9146a3e3aab5%40thread.tacv2&ctx=channel&context=Team%25209&rootfolder=%252Fteams%252FMytheGDGA2021-Team9%252FGedeelde%2520documenten%252FTeam%25209>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
