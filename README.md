@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Taiyō ga nai]
+Project team:[Sarenka Calis, Joost van der Knaap, Anna van der Wejden, Milan Breuren, Zakaria el Ghoul Aadi]
 
 Platform:
-[jullie platfom]
+[Unreal (pc)]
 
 ### Korte omschrijving van de game
-...
+... Wanneer de Godin van de zon zich verbergt in een grot, verdwijnt de 
 
 ---
 #### Producten Werkproces 1
