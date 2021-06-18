@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Taiyō ga nai]
+Project team:[Sarenka Calis, Joost van der Knaap, Anna van der Wejden, Milan Breuren, Zakaria el Ghoul Aadi]
 
 Platform:
-[jullie platfom]
+[Unreal (pc)]
 
 ### Korte omschrijving van de game
-...
+... Wanneer de Godin van de zon zich verbergt in een grot, verdwijnt de zon en komen er gemene monster omhoog. Nu is het jouw taak om de godin uit haar grot te lokken door het vinden van muziek instrumenten. 
 
 ---
 #### Producten Werkproces 1
@@ -36,7 +36,7 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://trello.com/b/9YZlOWnz/mythe-amaterasu>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
