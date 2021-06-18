@@ -37,7 +37,7 @@ Platform:
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/9YZlOWnz/mythe-amaterasu>
-   [Logboek]: <https:///C:/Users/saren/OneDrive%20-%20Mediacollege%20Amsterdam/Notulen%20Mythe%202021.pdf>
+   [Logboek]: <file:///C:/Users/saren/OneDrive%20-%20Mediacollege%20Amsterdam/Notulen%20Mythe%202021.pdff>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
