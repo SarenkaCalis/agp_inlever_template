@@ -5,7 +5,7 @@ Platform:
 [Unreal (pc)]
 
 ### Korte omschrijving van de game
-... Wanneer de Godin van de zon zich verbergt in een grot, verdwijnt de 
+... Wanneer de Godin van de zon zich verbergt in een grot, verdwijnt de zon en komen er gemene monster omhoog. Nu is het jouw taak om de godin uit haar grot te lokken door het vinden van muziek instrumenten. 
 
 ---
 #### Producten Werkproces 1
@@ -36,8 +36,8 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Backlog]: <https://trello.com/b/9YZlOWnz/mythe-amaterasu>
+   [Logboek]: <file:///C:/Users/saren/OneDrive%20-%20Mediacollege%20Amsterdam/Notulen%20Mythe%202021.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
